@@ -1,0 +1,31 @@
+Program #2: Guess the number!
+------------------------------------------------------------------------------------------------------
+PROGRAM FLOW
+
+1.) Program will choose one random number from 0-100,
+
+2.) Asks user if they want to check or play the program,
+    (If user chooses to check, program will show the random numbers)
+    (If user chooses to play, random numbers won't be shown)
+
+3.) User will be asked to guess the number,
+
+4.) The program will display whether the user's guess is greater or less than the mystery number,
+
+5.) Program will display "You are correct" if user guessed the mystery number.
+
+------------------------------------------------------------------------------------------------------
+
+EXTRA FEATURES
+
+1.) Basic output design (Lines and Spacing)
+
+2.) Can either "Check" or "Play".
+
+3.) Each questions have their own validation rules.
+
+4.) (Extra Feature) User can get a hint.
+
+5.) (Extra Feature) User will have a choice to play/try again.
+
+------------------------------------------------------------------------------------------------------
