@@ -1,5 +1,6 @@
 Program 1: Lottery
 
+--------------------------------------------------------------------------------
 PROGRAM FLOW
 
 1.) A program that will generate three random numbers ranging from numbers 0-9,
@@ -16,6 +17,7 @@ PROGRAM FLOW
 
 6.) Asks if user wants to try again.
 
+--------------------------------------------------------------------------------
 EXTRA FEATURES
 
 1.) Basic output design (spacing).
@@ -23,3 +25,4 @@ EXTRA FEATURES
 2.) Can either "Check" or "Play". 
 
 3.) Each questions have their own validation rules.
+--------------------------------------------------------------------------------
