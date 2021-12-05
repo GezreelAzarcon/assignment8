@@ -1,0 +1,25 @@
+Program 1: Lottery
+
+PROGRAM FLOW
+
+1.) A program that will generate three random numbers ranging from numbers 0-9,
+
+2.) Asks user if they want to check or play the program
+    (If user chooses to check, program will show the random numbers)
+    (If user chooses to play, random numbers won't be shown)
+
+3.) Asks the user to input three numbers also ranging from 0-9,
+
+4.) Displays "You win!" if the user input is equal to the random numbers,
+
+5.) Displays "You lose!" if the user input is not equal to the random numbers,
+
+6.) Asks if user wants to try again.
+
+EXTRA FEATURES
+
+1.) Basic output design (spacing).
+
+2.) Can either "Check" or "Play". 
+
+3.) Each questions have their own validation rules.
