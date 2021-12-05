@@ -17,7 +17,7 @@ while True:
     num2 = rng[1]
     num3 = rng[3]
     while True:
-        type = input('Type "C" for checking and "P" for playing: ')
+        type = input('Type "C/c" for checking and "P/p" for playing: ')
         if type != 'C' and type != 'c' and type != 'P' and type != 'p':
             print('Type (C/P or c/p) only!')
         if type == 'C' or type == 'c' or type == 'P' or type == 'p':
@@ -31,10 +31,10 @@ while True:
                 break
     print('First Guess?')
     while True:
-        guess1 = (input('Input: '))
+        guess1 = (input('Guess#1: '))
         print()
         if not guess1.isdigit():
-            print('Y/N or y/n only!')
+            print('Whole numbers only!')
         if guess1.isdigit():
             guess1 = int(guess1)
             if guess1 > 9 or guess1 < 0:
@@ -43,10 +43,10 @@ while True:
                 break
     print('Second Guess? ')
     while True:
-        guess2 = (input('Input: '))
+        guess2 = (input('Guess#2: '))
         print()
         if not guess2.isdigit():
-            print('Y/N or y/n only!')
+            print('Whole numbers only!')
         if guess2.isdigit():
             guess2 = int(guess2)
             if guess2 > 9 or guess2 < 0:
@@ -55,10 +55,10 @@ while True:
                 break
     print('Third guess? ')
     while True:
-        guess3 = (input('Input: '))
+        guess3 = (input('Guess#3: '))
         print()
         if not guess3.isdigit():
-            print('Y/N or y/n only!')
+            print('Whole numbers only!')
         if guess3.isdigit():
             guess3 = int(guess3)
             if guess3 > 9 or guess3 < 0:
