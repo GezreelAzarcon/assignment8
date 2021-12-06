@@ -5,8 +5,8 @@ PROGRAM FLOW
 1.) Program will choose one random number from 0-100,
 
 2.) Asks user if they want to check or play the program,
-    (If user chooses to check, program will show the random numbers)
-    (If user chooses to play, random numbers won't be shown)
+    (If user chooses to check, program will show the random number)
+    (If user chooses to play, random number won't be shown)
 
 3.) User will be asked to guess the number,
 
